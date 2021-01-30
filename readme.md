@@ -1,2 +1,2 @@
 # Games
-Repository with all the games I have worked on.
+Repository with all the games I have created.
