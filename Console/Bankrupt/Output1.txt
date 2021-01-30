@@ -1,0 +1,16 @@
+Welcome to Bankrupt!
+
+Game data:
+Matches that ended by time out: 168;
+Average round that matches end: 629;
+The number of wins per player is:
+    - Impulsivo: 116;
+    - Exigente: 49;
+    - Cauteloso: 83;
+    - Aleatorio: 52;
+The percentage of wins by player is:
+    - Impulsivo: 38%;
+    - Exigente: 16%;
+    - Cauteloso: 27%;
+    - Aleatorio: 17%;
+The player with most wins is the player impulsivo.
